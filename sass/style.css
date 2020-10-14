@@ -1,0 +1,133 @@
+.navbar {
+  background: black;
+}
+
+.navbar .name {
+  color: white;
+  font-weight: 700;
+  font-size: 1.8rem;
+  text-transform: uppercase;
+}
+
+.navbar a {
+  color: white;
+  font-size: 1.1rem;
+}
+
+.navbar a:hover {
+  text-decoration: underline;
+  color: white;
+}
+
+.navbar .hambur {
+  background: white;
+}
+
+.gif {
+  height: 80vh;
+}
+
+.icons {
+  margin-top: 55px;
+}
+
+.titHome {
+  font-weight: 800;
+  font-size: 1.9rem;
+  padding: 13px 0;
+}
+
+.btn1 {
+  color: white;
+  background-color: black;
+  border-radius: 25px;
+  padding: 8px 15px;
+  font-size: 1rem;
+  text-transform: uppercase;
+  margin: 5px 0 45px 0;
+}
+
+.slider p {
+  position: absolute;
+  top: 200px;
+  left: 0;
+  width: 100%;
+}
+
+.slider img {
+  position: relative;
+}
+
+footer {
+  background: black;
+  color: white;
+  margin-top: 40px;
+}
+
+footer .margFooter {
+  margin-left: 30px;
+}
+
+footer h5 {
+  margin: 30px 0 18px 0;
+  font-weight: 800;
+}
+
+.gifDesk {
+  background: #1E1842;
+}
+
+.gifDesk p {
+  color: white;
+  font-weight: 800;
+  font-size: 2rem;
+}
+
+.gifDesk .opt {
+  font-weight: 800;
+  font-size: 2rem;
+}
+
+.gifDesk .scroll1 {
+  color: red;
+}
+
+.gifDesk .scroll2 {
+  color: green;
+}
+
+.gifDesk .scroll3 {
+  color: yellow;
+}
+
+.gifDesk .scroll4 {
+  color: pink;
+}
+
+.testimonials h2 {
+  font-weight: 800;
+}
+
+.testimonials p {
+  font-size: 1.2rem;
+}
+
+.valoresDeskt {
+  background: black;
+  color: white;
+  padding: 80px 0 45px 0;
+}
+
+.logos h3 {
+  font-weight: 800;
+}
+
+.btn2 {
+  color: #1E1842;
+  background-color: white;
+  border-radius: 25px;
+  padding: 8px 15px;
+  font-size: 1rem;
+  text-transform: uppercase;
+  margin: 11px 0 13px 0;
+}

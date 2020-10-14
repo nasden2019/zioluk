@@ -1,0 +1,149 @@
+// navbar
+.navbar {
+    background: black;
+
+    .name {
+        color: white;
+        font-weight: 700;
+        font-size: 1.8rem;
+        text-transform: uppercase;
+    }
+
+    a {
+        color: white;
+        font-size: 1.1rem;
+
+        &:hover {
+            text-decoration: underline;
+            color: white;
+        }
+    }
+
+    .hambur {
+        background: white;
+    }
+}
+
+// gif
+.gif {
+    height: 80vh;
+}
+
+// icons
+.icons{
+    margin-top: 55px;
+}
+
+// h2
+.titHome {
+    font-weight: 800;
+    font-size: 1.9rem;
+    padding: 13px 0;
+}
+
+// botones
+.btn1 {
+    color: white;
+    background-color: black;
+    border-radius: 25px;
+    padding: 8px 15px;
+    font-size: 1rem;
+    text-transform: uppercase;
+    margin: 5px 0 45px 0;
+}
+
+// carousel
+.slider {
+    p {
+        position: absolute;
+        top: 200px; 
+        left: 0; 
+        width: 100%; 
+    }
+    img {
+        position: relative;
+    }
+}
+
+// footer
+footer {
+    background: black;
+    color: white;
+    margin-top: 40px;
+
+    .margFooter {
+        margin-left: 30px;
+    }
+
+    h5 {
+        margin: 30px 0 18px 0;
+        font-weight: 800;
+    }
+}
+
+// Home desktop
+// gif
+.gifDesk {
+    background:#1E1842;
+    // padding: 90px 0 0 0;
+
+    p {
+        color: white;
+        font-weight: 800;
+        font-size: 2rem;
+    }
+
+.opt {
+    font-weight: 800;
+    font-size: 2rem;
+}
+
+    .scroll1 {
+        color: red;
+    }
+    .scroll2 {
+        color: green;
+    }
+    .scroll3 {
+        color: yellow;
+    }
+    .scroll4 {
+        color: pink;
+    }
+}
+
+// testimonials
+.testimonials {
+    h2 {
+       font-weight: 800;
+    }
+
+    p {
+        font-size: 1.2rem;
+    }
+}
+
+// valoresDesk
+.valoresDeskt {
+    background: black;
+    color: white;
+    padding: 80px 0 45px 0;
+}
+
+// logos
+.logos {
+    h3 {
+        font-weight: 800;
+    }
+}
+
+// button desktop proyectos
+.btn2 {
+    color: #1E1842;
+    background-color: white;
+    border-radius: 25px;
+    padding: 8px 15px;
+    font-size: 1rem;
+    text-transform: uppercase;
+    margin: 11px 0 13px 0;
+}
