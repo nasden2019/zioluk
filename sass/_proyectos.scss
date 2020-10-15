@@ -1,3 +1,9 @@
-.img-fluid {
-    height: 450px!important;
+@media (max-width: 700px) {
+
+    .img-fluid {
+        height: 450px!important;
+    }
+}
+.pics {
+    height: 420px!important;
 }
