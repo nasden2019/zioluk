@@ -131,3 +131,7 @@ footer h5 {
   text-transform: uppercase;
   margin: 11px 0 13px 0;
 }
+
+.img-fluid {
+  height: 450px !important;
+}
