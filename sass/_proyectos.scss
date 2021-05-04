@@ -1,20 +1,20 @@
 // proyectos
 @media (max-width: 700px) {
-
-    .img-fluid {
-        height: 450px!important;
-    }
+	.img-fluid {
+		max-height: 450px !important;
+	}
 }
 .pics {
-    height: 420px!important;
+	max-height: 420px !important;
+	margin: 0 0 -4px 0 !important;
 }
 
 // estrategias
 .estrategias {
-    h1 {
-        font-weight: 900;
-    }
-    h3 {
-        font-weight: 800;
-    }
+	h1 {
+		font-weight: 900;
+	}
+	h3 {
+		font-weight: 800;
+	}
 }

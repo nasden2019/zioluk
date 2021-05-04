@@ -134,12 +134,13 @@ footer h5 {
 
 @media (max-width: 700px) {
   .img-fluid {
-    height: 450px !important;
+    max-height: 450px !important;
   }
 }
 
 .pics {
-  height: 420px !important;
+  max-height: 420px !important;
+  margin: 0 0 -4px 0 !important;
 }
 
 .estrategias h1 {
